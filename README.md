@@ -1,16 +1,10 @@
-# umair_shaikh
+# Umair Shaikh
 
-A new Flutter project.
+Name: Animal Eating App
 
-## Getting Started
+Description: 
+A simple mobile game where the objective is to help the animal grow by feeding it.
+This assignment was provided by one of the biggets startup - Alemeno.
 
-This project is a starting point for a Flutter application.
+Technology: Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
